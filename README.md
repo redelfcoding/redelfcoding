@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithgauri&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 <!--
 **redelfcoding/redelfcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
